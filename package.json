@@ -1,0 +1,27 @@
+{
+  "name": "mentalpolice",
+  "version": "0.1.0",
+  "description": "Discord bot for \"Mental midet\" minecraft team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toombez/MentalPolice.git"
+  },
+  "keywords": [
+    "discord",
+    "mentalMidget"
+  ],
+  "author": "toombez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toombez/MentalPolice/issues"
+  },
+  "homepage": "https://github.com/toombez/MentalPolice#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
